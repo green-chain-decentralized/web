@@ -1,1 +1,0 @@
-# Company main page
